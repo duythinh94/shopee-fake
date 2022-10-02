@@ -1,4 +1,4 @@
-# Mini Project: Online Shoping - Shoppe Web Clone
+# Mini Project: Online Shoping - Shopee Web Clone
 ## Date: 02 - 10 - 2022
 
 ### Functions
